@@ -1,0 +1,105 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	margin-bottom: 30px;
+	font-family: "Noto Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.logo {
+	margin-right: 20px;
+	width: 150px;
+}
+
+h1, h2, h5, h6 {
+	margin-bottom: 0.8rem;
+}
+
+.description p {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+.text-muted {
+	font-size: 0.8rem;
+	margin-top: -10px;
+}
+
+.container {
+	max-width: 95%;
+}
+
+.bi {
+	vertical-align: -.125em;
+	color: white;
+}
+
+.icon-square {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 3rem;
+	height: 3rem;
+	font-size: 1.5rem;
+	border-radius: .75rem;
+}
+
+.fa-gradient {
+	background-image: linear-gradient(90deg, #002395ff, #ed2939ff) !important;
+}
+
+p {
+	margin-bottom: 0.5rem;
+}
+
+.title {
+	margin-top: 0;
+	margin-bottom: .5rem;
+	font-weight: 500;
+	line-height: 1.2;
+	font-size: 1.05rem;
+}
+
+.description p {
+	font-size: 0.9rem;
+	font-style: italic;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+@keyframes fadeOut {
+	from {
+		opacity: 1;
+	}
+	to {
+		opacity: 0;
+	}
+}
+
+.fadeIn {
+	animation-duration: 0.3s;
+	animation-fill-mode: both;
+	animation-name: fadeIn;
+}
+
+.fadeOut {
+	animation-duration: 0.3s;
+	animation-fill-mode: both;
+	animation-name: fadeOut;
+}
+
+.no-js {
+	visibility: hidden;
+}
