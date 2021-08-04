@@ -1,0 +1,7 @@
+bs4
+feedparser
+flask
+frozen-flask
+gunicorn
+python-slugify
+pyyaml
