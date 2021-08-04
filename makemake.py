@@ -252,23 +252,3 @@ def home(page=1):
     mm["entries"] = filter(filtering_entry, mm["entries"])
 
     return render_template("index.html", mm=mm)
-
-
-@application.route("/rss20.xml")
-def rss20():
-    # Loading entries
-    mm = load_entries()
-    response = make_response(render_template("rss20.xml", mm=mm))
-    response.headers["Content-Type"] = "text/xml"
-
-    return response
-
-
-@application.route("/atom.xml")
-def atom():
-    # Loading entries
-    mm = load_entries()
-    response = make_response(render_template("atom.xml", mm=mm))
-    response.headers["Content-Type"] = "text/xml"
-
-    return response
