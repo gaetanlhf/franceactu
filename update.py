@@ -75,7 +75,7 @@ if args.verbose:
 for source in sources:
     if args.verbose:
         print(f" - {source['name']}")
-    feed = feedparser.parse(source["url"])
+    feed = feedparser.parse(source["feed"])
 
     # Getting feed informations
     feed_file = slugify(source["name"])
