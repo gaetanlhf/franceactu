@@ -21,6 +21,31 @@ h1, h2, h5, h6 {
 	margin-bottom: 0.8rem;
 }
 
+@media (prefers-color-scheme: light) {
+	.nav-link {
+		color: #495057;
+	}
+	
+	.nav-link:hover, .nav-link:focus {
+		color: #495057;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	.nav-link {
+		color: #e1e1e1;
+	}
+	
+	.nav-link:hover, .nav-link:focus {
+		color: #e1e1e1;
+	}
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+	color: #fff;
+	background-color: #3459e6;
+}
+
 .description p {
 	overflow: hidden;
 	text-overflow: ellipsis;
