@@ -61,7 +61,12 @@
   url: "https://la1ere.francetvinfo.fr/faits-divers/rss"
   link: "https://la1ere.francetvinfo.fr/"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
-
+-
+  name: "France Bleu - Infos"
+  group: "faitsdivers"
+  url: "https://www.francebleu.fr/rss/infos.xml"
+  link: "https://www.francebleu.fr/"
+  icon: "https://www.francebleu.fr/favicons/android-chrome-192x192.png"
 
 # Europe
 
