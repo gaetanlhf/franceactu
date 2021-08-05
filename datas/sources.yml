@@ -3,20 +3,17 @@
 -
   name: "franceinfo - Société"
   group: "societe"
-  url: "https://www.francetvinfo.fr/societe.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/societe.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 3 - Société"
   group: "societe"
-  url: "https://france3-regions.francetvinfo.fr/societe/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/societe/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Société"
   group: "politique"
-  url: "https://la1ere.francetvinfo.fr/societe/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/societe/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 
@@ -25,20 +22,17 @@
 -
   name: "franceinfo - Politique"
   group: "politique"
-  url: "https://www.francetvinfo.fr/politique.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/politique.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 3 - Politique"
   group: "politique"
-  url: "https://france3-regions.francetvinfo.fr/politique/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/politique/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Politique"
   group: "politique"
-  url: "https://la1ere.francetvinfo.fr/politique/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/politique/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 # Faits divers
@@ -46,26 +40,22 @@
 -
   name: "franceinfo - Faits divers"
   group: "faitsdivers"
-  url: "https://www.francetvinfo.fr/faits-divers.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/faits-divers.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 3 - Faits divers"
   group: "faitsdivers"
-  url: "https://france3-regions.francetvinfo.fr/faits-divers/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/faits-divers/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Faits divers"
   group: "faitsdivers"
-  url: "https://la1ere.francetvinfo.fr/faits-divers/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/faits-divers/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 -
   name: "France Bleu - Infos"
   group: "faitsdivers"
-  url: "https://www.francebleu.fr/rss/infos.xml"
-  link: "https://www.francebleu.fr/"
+  feed: "https://www.francebleu.fr/rss/infos.xml"
   icon: "https://www.francebleu.fr/favicons/android-chrome-192x192.png"
 
 # Europe
@@ -73,20 +63,17 @@
 -
   name: "franceinfo - Europe"
   group: "europe"
-  url: "https://www.francetvinfo.fr/europe.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/europe.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 24 - Europe"
   group: "europe"
-  url: "https://www.france24.com/fr/europe/rss"
-  link: "https://www.france24.com/fr/"
+  feed: "https://www.france24.com/fr/europe/rss"
   icon: "https://www.france24.com/android-chrome-192x192.png"
 -
   name: "RFI - Europe"
   group: "europe"
-  url: "https://www.rfi.fr/fr/europe/rss"
-  link: "https://www.rfi.fr/fr/"
+  feed: "https://www.rfi.fr/fr/europe/rss"
   icon: "https://www.rfi.fr/android-chrome-192x192.png"
 
 # Monde
@@ -94,116 +81,97 @@
 -
   name: "franceinfo - Afrique"
   group: "monde"
-  url: "https://www.francetvinfo.fr/afrique.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/afrique.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "franceinfo - Amériques"
   group: "monde"
-  url: "https://www.francetvinfo.fr/ameriques.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/ameriques.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "franceinfo - Asie-Pacifique"
   group: "monde"
-  url: "https://www.francetvinfo.fr/asie-pacifique.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/asie-pacifique.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "franceinfo - Proche Orient"
   group: "monde"
-  url: "https://www.francetvinfo.fr/proche-orient.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/proche-orient.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 24 - Afrique"
   group: "monde"
-  url: "https://www.france24.com/fr/afrique/rss"
-  link: "https://www.france24.com/fr/"
+  feed: "https://www.france24.com/fr/afrique/rss"
   icon: "https://www.france24.com/android-chrome-192x192.png"
 -
   name: "France 24 - Moyen-Orient"
   group: "monde"
-  url: "https://www.france24.com/fr/moyen-orient/rss"
-  link: "https://www.france24.com/fr/"
+  feed: "https://www.france24.com/fr/moyen-orient/rss"
   icon: "https://www.france24.com/android-chrome-192x192.png"
 -
   name: "France 24 - Amériques"
   group: "monde"
-  url: "https://www.france24.com/fr/ameriques/rss"
-  link: "https://www.france24.com/fr/"
+  feed: "https://www.france24.com/fr/ameriques/rss"
   icon: "https://www.france24.com/android-chrome-192x192.png"
 -
   name: "France 24 - Asie Pacifique"
   group: "monde"
-  url: "https://www.france24.com/fr/asie-pacifique/rss"
-  link: "https://www.france24.com/fr/"
+  feed: "https://www.france24.com/fr/asie-pacifique/rss"
   icon: "https://www.france24.com/android-chrome-192x192.png"
 -  
   name: "Les Observateurs de France 24"
   group: "monde"
-  url: "https://observers.france24.com/fr/rss"
-  link: "https://observers.france24.com/fr/"
+  feed: "https://observers.france24.com/fr/rss"
   icon: "https://observers.france24.com/android-chrome-192x192.png"
 -  
   name: "RFI - Afrique"
   group: "monde"
-  url: "https://www.rfi.fr/fr/afrique/rss"
-  link: "https://www.rfi.fr/fr/"
+  feed: "https://www.rfi.fr/fr/afrique/rss"
   icon: "https://www.rfi.fr/android-chrome-192x192.png"
 -
   name: "RFI - Moyen-Orient"
   group: "monde"
-  url: "https://www.rfi.fr/fr/moyen-orient/rss"
-  link: "https://www.rfi.fr/fr/"
+  feed: "https://www.rfi.fr/fr/moyen-orient/rss"
   icon: "https://www.rfi.fr/android-chrome-192x192.png"
 -
   name: "RFI - Amériques"
   group: "monde"
-  url: "https://www.rfi.fr/fr/asie-pacifique/rss"
-  link: "https://www.rfi.fr/fr/"
+  feed: "https://www.rfi.fr/fr/asie-pacifique/rss"
   icon: "https://www.rfi.fr/android-chrome-192x192.png"
 - 
   name: "RFI - Asie Pacifique"
   group: "monde"
-  url: "https://www.rfi.fr/fr/ameriques/rss"
-  link: "https://www.rfi.fr/fr/"
+  feed: "https://www.rfi.fr/fr/ameriques/rss"
   icon: "https://www.rfi.fr/android-chrome-192x192.png"
 -
   name: "TV5MONDE - Monde"
   group: "monde"
-  url: "https://information.tv5monde.com/afprss/francais--journal--mon"
-  link: "https://information.tv5monde.com/"
+  feed: "https://information.tv5monde.com/afprss/francais--journal--mon"
   icon: "https://www.tv5monde.com/cms/userdata/c_bloc/300/300076/300076_vignette_tv5-general.png"
 -
   name: "Outre-mer la 1ère - Océanie"
   group: "monde"
-  url: "https://la1ere.francetvinfo.fr/monde/ocean-pacifique/oceanie/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/monde/ocean-pacifique/oceanie/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 -
   name: "Outre-mer la 1ère - Amérique du nord"
   group: "monde"
-  url: "https://la1ere.francetvinfo.fr/monde/ocean-atlantique/amerique-du-nord/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/monde/ocean-atlantique/amerique-du-nord/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 -  
   name: "Outre-mer la 1ère - Amérique du sud"
   group: "monde"
-  url: "https://la1ere.francetvinfo.fr/monde/ocean-atlantique/amerique-du-sud/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/monde/ocean-atlantique/amerique-du-sud/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 -
   name: "Outre-mer la 1ère - Caraïbes"
   group: "monde"
-  url: "https://la1ere.francetvinfo.fr/monde/ocean-atlantique/caraibes/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/monde/ocean-atlantique/caraibes/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 -
   name: "Outre-mer la 1ère - Asie"
   group: "monde"
-  url: "https://la1ere.francetvinfo.fr/monde/ocean-pacifique/asie/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/monde/ocean-pacifique/asie/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 # Économie
@@ -211,20 +179,17 @@
 -
   name: "franceinfo - Économie"
   group: "economie"
-  url: "https://www.francetvinfo.fr/eco.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/eco.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 3 - Économie"
   group: "economie"
-  url: "https://france3-regions.francetvinfo.fr/economie/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/economie/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Économie"
   group: "economie"
-  url: "https://la1ere.francetvinfo.fr/economie/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/economie/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 
@@ -233,26 +198,22 @@
 -
   name: "franceinfo - Sports"
   group: "sports"
-  url: "https://www.francetvinfo.fr/sports.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/sports.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 3 - Sport"
   group: "sports"
-  url: "https://france3-regions.francetvinfo.fr/sport/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/sport/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Sport"
   group: "sports"
-  url: "https://la1ere.francetvinfo.fr/sport/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/sport/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 -
   name: "France Bleu - Sports"
   group: "sports"
-  url: "https://www.francebleu.fr/rss/sports.xml"
-  link: "https://www.francebleu.fr/"
+  feed: "https://www.francebleu.fr/rss/sports.xml"
   icon: "https://www.francebleu.fr/favicons/android-chrome-192x192.png"
 
 # Environnement
@@ -260,20 +221,17 @@
 -
   name: "franceinfo - Environnement"
   group: "environnement"
-  url: "https://www.francetvinfo.fr/environnement.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/environnement.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 3 - Environnement"
   group: "environnement"
-  url: "https://france3-regions.francetvinfo.fr/environnement/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/environnement/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Environnement"
   group: "environnement"
-  url: "https://la1ere.francetvinfo.fr/environnement/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/environnement/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 # Santé
@@ -281,20 +239,17 @@
 -
   name: "franceinfo - Santé"
   group: "sante"
-  url: "https://www.francetvinfo.fr/sante.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/sante.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 3 - Santé"
   group: "sante"
-  url: "https://france3-regions.francetvinfo.fr/sante/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/sante/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Santé"
   group: "sante"
-  url: "https://la1ere.francetvinfo.fr/sante/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/sante/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 # Culture
@@ -302,40 +257,34 @@
 -
   name: "Outre-mer la 1ère - Découvertes"
   group: "culture"
-  url: "https://la1ere.francetvinfo.fr/decouverte/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/decouverte/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 -
   name: "franceinfo - Découvertes"
   group: "culture"
-  url: "https://www.francetvinfo.fr/decouvertes.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/decouvertes.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 
 -
   name: "franceinfo - Culture"
   group: "culture"
-  url: "https://www.francetvinfo.fr/culture.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/culture.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 3 - Culture"
   group: "culture"
-  url: "https://france3-regions.francetvinfo.fr/culture/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/culture/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Culture"
   group: "culture"
-  url: "https://la1ere.francetvinfo.fr/culture/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/culture/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 -
   name: "France Bleu - Culture"
   group: "culture"
-  url: "https://www.francebleu.fr/rss/culture.xml"
-  link: "https://www.francebleu.fr/"
+  feed: "https://www.francebleu.fr/rss/culture.xml"
   icon: "https://www.francebleu.fr/favicons/android-chrome-192x192.png"
 
   # Météo
@@ -343,14 +292,12 @@
 -
   name: "France 3 - Météo"
   group: "meteo"
-  url: "https://france3-regions.francetvinfo.fr/meteo/rss"
-  link: "https://france3-regions.francetvinfo.fr/"
+  feed: "https://france3-regions.francetvinfo.fr/meteo/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "Outre-mer la 1ère - Météo"
   group: "meteo"
-  url: "https://la1ere.francetvinfo.fr/meteo/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/meteo/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 # Sorties
@@ -358,20 +305,17 @@
 -
   name: "France 3 - Sorties et loisirs"
   group: "sorties"
-  url: "https://france3-regions.francetvinfo.fr/sorties-loisirs/rss"
-  link: "https://france3-regions.francetvinfo.fr/sorties-loisirs/"
+  feed: "https://france3-regions.francetvinfo.fr/sorties-loisirs/rss"
   icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
 -
   name: "France Bleu - Vie quotidienne"
   group: "sorties"
-  url: "https://www.francebleu.fr/rss/vie-quotidienne.xml"
-  link: "https://www.francebleu.fr/"
+  feed: "https://www.francebleu.fr/rss/vie-quotidienne.xml"
   icon: "https://www.francebleu.fr/favicons/android-chrome-192x192.png"
 -
   name: "Outre-mer la 1ère - Sorties de la semaine"
   group: "sorties"
-  url: "https://la1ere.francetvinfo.fr/culture/sorties-semaine/rss"
-  link: "https://la1ere.francetvinfo.fr/"
+  feed: "https://la1ere.francetvinfo.fr/culture/sorties-semaine/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
 
 # Fact-cheking
@@ -379,12 +323,10 @@
 -
   name: "franceinfo - Vrai ou fake"
   group: "factchecking"
-  url: "https://www.francetvinfo.fr/vrai-ou-fake.rss"
-  link: "https://www.francetvinfo.fr/"
+  feed: "https://www.francetvinfo.fr/vrai-ou-fake.rss"
   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
 -
   name: "France 24 - Les observateurs - Intox"
   group: "factchecking"
-  url: "https://observers.france24.com/fr/tag/intox/rss"
-  link: "https://www.france24.com/fr/"
-  icon: "https://www.france24.com/android-chrome-192x192.png"
+  feed: "https://observers.france24.com/fr/tag/intox/rss"
+  icon: "https://observers.france24.com/android-chrome-192x192.png"
