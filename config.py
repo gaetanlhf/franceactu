@@ -8,12 +8,10 @@ JINJA_ENV = {
 # Planet website configuration
 # Title
 MAKEMAKE_TITLE = "franceactu"
-# Link to itself
-MAKEMAKE_LINK = "http://localhost:8000/"
 # Logo
 MAKEMAKE_LOGO = "img/franceactu.png"
 # Favicon - if None, logo will be used in place
-MAKEMAKE_FAVICON = "img/franceactu.png"
+MAKEMAKE_FAVICON = "img/favicon.png"
 # Description
 MAKEMAKE_DESCRIPTION = "MakeMake The Dwarf Planet is a feed agregator."
 
