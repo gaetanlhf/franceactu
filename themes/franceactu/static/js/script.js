@@ -1,7 +1,3 @@
-// document.addEventListener("DOMContentLoaded", function() {
-// 	document.querySelector(".no-js").style.visibility = "visible";
-// });
-
 function changeCards(btnId, cards) {
 	document.getElementById("intro").classList.add("fadeOut")
 
@@ -9,7 +5,6 @@ function changeCards(btnId, cards) {
 		document.getElementById("intro").classList.add("d-none")
 
 	}, 300);
-
 
 	allNavBtn = document.querySelectorAll(".nav-link");
 	allCards = document.querySelectorAll(".newscards");
