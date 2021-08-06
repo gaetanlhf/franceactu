@@ -32,4 +32,4 @@ MAKEMAKE_DISPLAY_SOURCES = False
 # List of Planet feeds to generate (actualy, only RSS and ATOM are available)
 MAKEMAKE_FEEDS = False
 # Deleting old articles (in days)
-MAKEMAKE_DELETE_OLDER = 1
+MAKEMAKE_DELETE_OLDER = 0.5
