@@ -4,7 +4,7 @@
   name: "franceinfo - Société"
   group: "societe"
   feed: "https://www.francetvinfo.fr/societe.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 3 - Société"
   group: "societe"
@@ -23,7 +23,7 @@
   name: "franceinfo - Politique"
   group: "politique"
   feed: "https://www.francetvinfo.fr/politique.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 3 - Politique"
   group: "politique"
@@ -41,7 +41,7 @@
   name: "franceinfo - Faits divers"
   group: "faitsdivers"
   feed: "https://www.francetvinfo.fr/faits-divers.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 3 - Faits divers"
   group: "faitsdivers"
@@ -64,17 +64,17 @@
   name: "franceinfo - Europe"
   group: "europe"
   feed: "https://www.francetvinfo.fr/europe.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 24 - Europe"
   group: "europe"
   feed: "https://www.france24.com/fr/europe/rss"
-  icon: "https://www.france24.com/android-chrome-192x192.png"
+  icon: "https://www.france24.com/favicon-194x194.png"
 -
   name: "RFI - Europe"
   group: "europe"
   feed: "https://www.rfi.fr/fr/europe/rss"
-  icon: "https://www.rfi.fr/android-chrome-192x192.png"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
 
 # Monde
 
@@ -82,42 +82,42 @@
   name: "franceinfo - Afrique"
   group: "monde"
   feed: "https://www.francetvinfo.fr/afrique.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "franceinfo - Amériques"
   group: "monde"
   feed: "https://www.francetvinfo.fr/ameriques.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "franceinfo - Asie-Pacifique"
   group: "monde"
   feed: "https://www.francetvinfo.fr/asie-pacifique.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "franceinfo - Proche Orient"
   group: "monde"
   feed: "https://www.francetvinfo.fr/proche-orient.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 24 - Afrique"
   group: "monde"
   feed: "https://www.france24.com/fr/afrique/rss"
-  icon: "https://www.france24.com/android-chrome-192x192.png"
+  icon: "https://www.france24.com/favicon-194x194.png"
 -
   name: "France 24 - Moyen-Orient"
   group: "monde"
   feed: "https://www.france24.com/fr/moyen-orient/rss"
-  icon: "https://www.france24.com/android-chrome-192x192.png"
+  icon: "https://www.france24.com/favicon-194x194.png"
 -
   name: "France 24 - Amériques"
   group: "monde"
   feed: "https://www.france24.com/fr/ameriques/rss"
-  icon: "https://www.france24.com/android-chrome-192x192.png"
+  icon: "https://www.france24.com/favicon-194x194.png"
 -
   name: "France 24 - Asie Pacifique"
   group: "monde"
   feed: "https://www.france24.com/fr/asie-pacifique/rss"
-  icon: "https://www.france24.com/android-chrome-192x192.png"
+  icon: "https://www.france24.com/favicon-194x194.png"
 -  
   name: "Les Observateurs de France 24"
   group: "monde"
@@ -127,22 +127,22 @@
   name: "RFI - Afrique"
   group: "monde"
   feed: "https://www.rfi.fr/fr/afrique/rss"
-  icon: "https://www.rfi.fr/android-chrome-192x192.png"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
 -
   name: "RFI - Moyen-Orient"
   group: "monde"
   feed: "https://www.rfi.fr/fr/moyen-orient/rss"
-  icon: "https://www.rfi.fr/android-chrome-192x192.png"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
 -
   name: "RFI - Amériques"
   group: "monde"
   feed: "https://www.rfi.fr/fr/asie-pacifique/rss"
-  icon: "https://www.rfi.fr/android-chrome-192x192.png"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
 - 
   name: "RFI - Asie Pacifique"
   group: "monde"
   feed: "https://www.rfi.fr/fr/ameriques/rss"
-  icon: "https://www.rfi.fr/android-chrome-192x192.png"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
 -
   name: "TV5MONDE - Monde"
   group: "monde"
@@ -180,7 +180,7 @@
   name: "franceinfo - Économie"
   group: "economie"
   feed: "https://www.francetvinfo.fr/eco.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 3 - Économie"
   group: "economie"
@@ -191,7 +191,16 @@
   group: "economie"
   feed: "https://la1ere.francetvinfo.fr/economie/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
-
+-
+  name: "France 24 - Économie"
+  group: "economie"
+  feed: "https://www.france24.com/fr/economie/rss"
+  icon: "https://www.france24.com/favicon-194x194.png"
+-
+  name: "RFI - Économie"
+  group: "economie"
+  feed: "https://www.rfi.com/economie/rss"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
 
 # Sports
 
@@ -199,7 +208,7 @@
   name: "franceinfo - Sports"
   group: "sports"
   feed: "https://www.francetvinfo.fr/sports.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 3 - Sport"
   group: "sports"
@@ -215,6 +224,16 @@
   group: "sports"
   feed: "https://www.francebleu.fr/rss/sports.xml"
   icon: "https://www.francebleu.fr/favicons/android-chrome-192x192.png"
+-
+  name: "France 24 - Sport"
+  group: "sports"
+  feed: "https://www.france24.com/fr/sports/rss"
+  icon: "https://www.france24.com/favicon-194x194.png"
+-
+  name: "RFI - Sport"
+  group: "sports"
+  feed: "https://www.rfi.com/sports/rss"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
 
 # Environnement
 
@@ -222,7 +241,7 @@
   name: "franceinfo - Environnement"
   group: "environnement"
   feed: "https://www.francetvinfo.fr/environnement.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 3 - Environnement"
   group: "environnement"
@@ -233,6 +252,11 @@
   group: "environnement"
   feed: "https://la1ere.francetvinfo.fr/environnement/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
+-
+  name: "France 24 - Planète"
+  group: "environnement"
+  feed: "https://www.france24.com/fr/planete/rss"
+  icon: "https://www.france24.com/favicon-194x194.png"
 
 # Santé
 
@@ -240,7 +264,7 @@
   name: "franceinfo - Santé"
   group: "sante"
   feed: "https://www.francetvinfo.fr/sante.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 3 - Santé"
   group: "sante"
@@ -259,18 +283,16 @@
   group: "culture"
   feed: "https://la1ere.francetvinfo.fr/decouverte/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
-
 -
   name: "franceinfo - Découvertes"
   group: "culture"
   feed: "https://www.francetvinfo.fr/decouvertes.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
-
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "franceinfo - Culture"
   group: "culture"
   feed: "https://www.francetvinfo.fr/culture.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 3 - Culture"
   group: "culture"
@@ -286,6 +308,21 @@
   group: "culture"
   feed: "https://www.francebleu.fr/rss/culture.xml"
   icon: "https://www.francebleu.fr/favicons/android-chrome-192x192.png"
+- 
+  name: "France 24 - Découvertes"
+  group: "culture"
+  feed: "https://www.france24.com/fr/decouvertes/rss"
+  icon: "https://www.france24.com/favicon-194x194.png"
+-
+  name: "RFI - Culture"
+  group: "culture"
+  feed: "https://www.rfi.com/culture/rss"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
+-
+  name: "RFI - Science"
+  group: "culture"
+  feed: "https://www.rfi.com/science/rss"
+  icon: "https://www.rfi.fr/favicon-194x194.png"
 
   # Météo
 
@@ -324,7 +361,7 @@
   name: "franceinfo - Vrai ou fake"
   group: "factchecking"
   feed: "https://www.francetvinfo.fr/vrai-ou-fake.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png"
+  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
 -
   name: "France 24 - Les observateurs - Intox"
   group: "factchecking"
