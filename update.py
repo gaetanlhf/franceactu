@@ -105,10 +105,6 @@ for source in sources:
             new_entry["title"] = entry["title_detail"]["value"]
         else:
             new_entry["title"] = entry["title"]
-        if "authors" in entry:
-            new_entry["authors"] = ",".join([author["name"] for author in entry["authors"]])
-        else:
-            new_entry["authors"] = entry.get("author", source["name"])
         new_entry["date"] = entry.get("published_parsed", entry["updated_parsed"])
         new_entry["link"] = entry["link"]
         if "summary_detail" in entry:
@@ -120,7 +116,7 @@ for source in sources:
                 new_entry["summary"] = str(soup)
             else:
                 new_entry["summary"] = entry["summary_detail"]["value"]
-        else:
+        elif "summary" in entry:
             new_entry["summary"] = entry["summary"]
         new_entry["content"] = ""
         if "content" in entry:
@@ -133,11 +129,8 @@ for source in sources:
                     new_entry["content"] = str(soup)
                 else:
                     new_entry["content"] = content["value"]
-        if new_entry["content"] == "":
+        if new_entry["content"] == "" and "summary" in new_entry and new_entry["summary"] != "":
             new_entry["content"] = new_entry["summary"]
-        new_entry["tags"] = []
-        if "tags" in entry:
-            new_entry["tags"] = [tag["term"] for tag in entry["tags"]]
 
         # Filtering entries
         filtered = True
