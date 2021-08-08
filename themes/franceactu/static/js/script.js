@@ -1,4 +1,4 @@
-setInterval(location.reload(), 10*60000);
+setTimeout(location.reload(), 10*60000);
 
 function changeCards(btnId, cards) {
 	document.getElementById("intro").classList.add("fadeOut")
