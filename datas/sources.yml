@@ -402,11 +402,6 @@
   feed: "https://www.france24.com/fr/decouvertes/rss"
   icon: "https://www.france24.com/favicon-194x194.png"
 -
-  name: "France 3 - Sorties et loisirs"
-  group: "decouvertes"
-  feed: "https://france3-regions.francetvinfo.fr/sorties-loisirs/rss"
-  icon: "https://france3-regions.francetvinfo.fr/assets/img/icons/favicons/apple-touch-icon.png"
--
   name: "France Bleu - Vie quotidienne"
   group: "decouvertes"
   feed: "https://www.francebleu.fr/rss/vie-quotidienne.xml"
