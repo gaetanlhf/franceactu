@@ -5,9 +5,17 @@
 # Introduction
 franceactu is the aggregator of French public service news websites.  
 It retrieves, thanks to RSS feeds, news from different sources and organizing them into different categories.  
+The regeneration of the static website is done periodically, in order to have always the freshest news available (maximum twelve hours after publication).  
 franceactu is designed to be easy to use.  
 
-**NOTE: franceactu, is only available in French.**
+**NOTE: franceactu is only available in French.**
+
+# Build
+Periodically and on push/pull request via [Github Actions](https://github.com/gaetanlhf/franceactu/blob/main/.github/workflows/github-pages.yml) or manually:
+
+- Install dependencies: ```pip install -r requirements.txt```
+
+- Generate static website: ```python update.py --static ./build```
 
 # Credits
 franceactu is built around a modified version of [MakeMake](https://framagit.org/makemake/makemake), a dwarf Planet for your feeds.
