@@ -1,9 +1,11 @@
 name: Deploy to GitHub Pages
 
 on:
-  push:
+  [push, pull_request]:
     branches:
     - main
+  schedule:
+    - cron:  '0 * * * *'
 
 jobs:
   deploy:
@@ -21,13 +23,13 @@ jobs:
         python -m pip install -U pip
         python -m pip install -r requirements.txt
 
-    # Build the site
-    - name: Build the site
+    # Build the website
+    - name: Build the website
       run: |
         python update.py --static ./build
 
-    # Push the book's HTML to github-pages
-    - name: GitHub Pages action
+    # Push to Github Pages
+    - name: Push to Github Pages
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
