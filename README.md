@@ -1,5 +1,5 @@
 <div>
-  <h3 align="center"><img src="https://raw.githubusercontent.com/gaetanlhf/franceactu/themes/franceactu/static/img/favicon.png" width="100"/><br>franceactu</h3>
+  <h3 align="center"><img src="https://raw.githubusercontent.com/gaetanlhf/franceactu/main/themes/franceactu/static/img/favicon.png" width="100"/><br>franceactu</h3>
 </div>
 
 # Introduction
