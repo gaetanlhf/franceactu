@@ -13,7 +13,7 @@ MAKEMAKE_LOGO = "img/franceactu.png"
 # Favicon - if None, logo will be used in place
 MAKEMAKE_FAVICON = "img/favicon.png"
 # Description
-MAKEMAKE_DESCRIPTION = "MakeMake The Dwarf Planet is a feed agregator."
+MAKEMAKE_DESCRIPTION = "L'agrégateur des sites Internet d'informations français du service public"
 
 # Themes
 # Theme to use; should be present in themes/ folder
