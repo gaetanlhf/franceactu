@@ -9,8 +9,13 @@ body {
 }
 
 .logo {
-	margin-right: 20px;
 	width: 150px;
+}
+
+@media (min-width: 768px) { 
+	.logo {
+		margin-right: 20px;
+	}
 }
 
 .logo img {
