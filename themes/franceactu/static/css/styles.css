@@ -8,18 +8,14 @@ body {
 	font-family: "Noto Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-.logo {
+.logo img {
 	width: 150px;
 }
 
-@media (min-width: 768px) { 
+@media (max-width: 768px) { 
 	.logo {
 		margin-right: 20px;
 	}
-}
-
-.logo img {
-	width: 150px;
 }
 
 h1, h2, h5, h6 {
