@@ -8,6 +8,8 @@ JINJA_ENV = {
 # Planet website configuration
 # Title
 MAKEMAKE_TITLE = "franceactu"
+# Link to itself
+MAKEMAKE_LINK = "https://gaetanlhf.github.io/franceactu/"
 # Logo
 MAKEMAKE_LOGO = "img/franceactu.png"
 # Favicon - if None, logo will be used in place
