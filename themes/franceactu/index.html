@@ -23,23 +23,25 @@
 						<picture>
 							<source media="(prefers-color-scheme: dark)" srcset="/franceactu{{url_for('static', filename='img/franceactu-dark.png')}}"> <img alt="Logo" src="/franceactu{{url_for('static', filename=mm.logo)}}"></picture>
 					</a>
-					<nav class="nav nav-pills nav-fill d-inline-flex mt-2 mt-md-0 ms-md-auto">
-						<button class="nav-link" id="politique" onclick="changeCards(this, this.id)" type="button">Politique</button>
-						<button class="nav-link" id="faitsdivers" onclick="changeCards(this, this.id)" type="button">Faits divers</button>
-						<button class="nav-link" id="societe" onclick="changeCards(this, this.id);" type="button">Société</button>
-						<button class="nav-link" id="economie" onclick="changeCards(this, this.id)" type="button">Économie</button>
-						<button class="nav-link" id="europe" onclick="changeCards(this, this.id)" type="button">Europe</button>
-						<button class="nav-link" id="monde" onclick="changeCards(this, this.id)" type="button">Monde</button>
-						<button class="nav-link" id="culture" onclick="changeCards(this, this.id)" type="button">Culture</button>
-						<button class="nav-link" id="sports" onclick="changeCards(this, this.id)" type="button">Sports</button>
-						<button class="nav-link" id="sante" onclick="changeCards(this, this.id);" type="button">Santé</button>
-						<button class="nav-link" id="sciencestech" onclick="changeCards(this, this.id);" type="button">Sciences & Tech</button>
-						<button class="nav-link" id="environnement" onclick="changeCards(this, this.id)" type="button">Environnement</button>
-						<button class="nav-link" id="animaux" onclick="changeCards(this, this.id)" type="button">Animaux</button>
-						<button class="nav-link" id="decouvertes" onclick="changeCards(this, this.id)" type="button">Découvertes</button>
-						<button class="nav-link" id="meteo" onclick="changeCards(this, this.id)" type="button">Météo</button>
-						<!-- <button class="nav-link" id="factchecking" onclick="changeCards(this, this.id)" type="button">Fact-checking</button> -->
-					</nav>
+					<div class="navbar-nav-scroll">
+						<nav class="nav nav-pills nav-fill d-inline-flex mt-2 mt-md-0 ms-md-auto">
+							<button class="nav-link" id="politique" onclick="changeCards(this, this.id)" type="button">Politique</button>
+							<button class="nav-link" id="faitsdivers" onclick="changeCards(this, this.id)" type="button">Faits divers</button>
+							<button class="nav-link" id="societe" onclick="changeCards(this, this.id);" type="button">Société</button>
+							<button class="nav-link" id="economie" onclick="changeCards(this, this.id)" type="button">Économie</button>
+							<button class="nav-link" id="europe" onclick="changeCards(this, this.id)" type="button">Europe</button>
+							<button class="nav-link" id="monde" onclick="changeCards(this, this.id)" type="button">Monde</button>
+							<button class="nav-link" id="culture" onclick="changeCards(this, this.id)" type="button">Culture</button>
+							<button class="nav-link" id="sports" onclick="changeCards(this, this.id)" type="button">Sports</button>
+							<button class="nav-link" id="sante" onclick="changeCards(this, this.id);" type="button">Santé</button>
+							<button class="nav-link" id="sciencestech" onclick="changeCards(this, this.id);" type="button">Sciences & Tech</button>
+							<button class="nav-link" id="environnement" onclick="changeCards(this, this.id)" type="button">Environnement</button>
+							<button class="nav-link" id="animaux" onclick="changeCards(this, this.id)" type="button">Animaux</button>
+							<button class="nav-link" id="decouvertes" onclick="changeCards(this, this.id)" type="button">Découvertes</button>
+							<button class="nav-link" id="meteo" onclick="changeCards(this, this.id)" type="button">Météo</button>
+							<!-- <button class="nav-link" id="factchecking" onclick="changeCards(this, this.id)" type="button">Fact-checking</button> -->
+						</nav>
+					</div>
 				</div>
 			</header>
 			<noscript>

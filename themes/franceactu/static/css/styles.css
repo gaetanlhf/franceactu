@@ -16,6 +16,14 @@ body {
 	.logo {
 		margin-right: 20px;
 	}
+
+	.nav {
+		flex-wrap: inherit;
+	}
+
+	.navbar-nav-scroll {
+		width: 100%;
+	}
 }
 
 h1, h2, h5, h6 {
