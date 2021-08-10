@@ -20,6 +20,11 @@ body {
 
 	.navbar-nav-scroll {
 		width: 100%;
+		scrollbar-width: none;
+	}
+	
+	.navbar-nav-scroll::-webkit-scrollbar {
+		display: none;
 	}
 }
 
