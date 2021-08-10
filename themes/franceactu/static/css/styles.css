@@ -16,6 +16,7 @@ body {
 @media (max-width: 768px) { 
 	.nav {
 		flex-wrap: inherit;
+		white-space: nowrap;
 	}
 
 	.navbar-nav-scroll {
