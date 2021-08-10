@@ -23,8 +23,8 @@
 						<picture>
 							<source media="(prefers-color-scheme: dark)" srcset="/franceactu{{url_for('static', filename='img/franceactu-dark.png')}}"> <img alt="Logo" src="/franceactu{{url_for('static', filename=mm.logo)}}"></picture>
 					</a>
-					<div class="navbar-nav-scroll">
-						<nav class="nav nav-pills nav-fill d-inline-flex mt-2 mt-md-0 ms-md-auto">
+					<div class="navbar-nav-scroll d-inline-flex mt-2 mt-md-0 ms-md-auto">
+						<nav class="nav nav-pills nav-fill">
 							<button class="nav-link" id="politique" onclick="changeCards(this, this.id)" type="button">Politique</button>
 							<button class="nav-link" id="faitsdivers" onclick="changeCards(this, this.id)" type="button">Faits divers</button>
 							<button class="nav-link" id="societe" onclick="changeCards(this, this.id);" type="button">Société</button>
