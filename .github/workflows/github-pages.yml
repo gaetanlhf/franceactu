@@ -16,6 +16,11 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: Set up timezone
+      uses: szenius/set-timezone@v1.0
+      with:
+        timezoneLinux: "Europe/Paris"
+
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
@@ -26,12 +31,10 @@ jobs:
         python -m pip install -U pip
         python -m pip install -r requirements.txt
 
-    # Build static website
     - name: Build static website
       run: |
         python update.py --static ./build
 
-    # Push to Github Pages
     - name: Push to Github Pages
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
