@@ -2,6 +2,8 @@
   <h3 align="center"><img src="https://raw.githubusercontent.com/gaetanlhf/franceactu/main/themes/franceactu/static/img/favicon.png" width="100"/><br>franceactu</h3>
 </div>
 
+[![Deploy to GitHub Pages](https://github.com/gaetanlhf/franceactu/actions/workflows/github-pages.yml/badge.svg)](https://github.com/gaetanlhf/franceactu/actions/workflows/github-pages.yml)
+
 # Introduction
 franceactu is the aggregator of French public service news websites.  
 It retrieves, thanks to RSS feeds, news from different sources and organizing them into different categories.  
