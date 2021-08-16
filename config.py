@@ -9,7 +9,7 @@ JINJA_ENV = {
 # Title
 MAKEMAKE_TITLE = "franceactu"
 # Link to itself
-MAKEMAKE_LINK = "https://gaetanlhf.github.io/franceactu/"
+MAKEMAKE_LINK = "https://franceactu.org/"
 # Logo
 MAKEMAKE_LOGO = "img/franceactu.png"
 # Favicon - if None, logo will be used in place
