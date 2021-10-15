@@ -33,11 +33,6 @@
   group: "faitsdivers"
   feed: "https://la1ere.francetvinfo.fr/faits-divers/rss"
   icon: "https://la1ere.francetvinfo.fr/assets/img/icons/favicons_outremer/android-chrome-192x192.png"
-# -
-#   name: "France Bleu - Infos"
-#   group: "faitsdivers"
-#   feed: "https://www.francebleu.fr/rss/infos.xml"
-#   icon: "https://www.francebleu.fr/favicons/android-chrome-192x192.png"
 -
   name: "TV5MONDE - Faits divers"
   group: "faitsdivers"
