@@ -145,11 +145,6 @@
   group: "monde"
   feed: "https://www.france24.com/fr/asie-pacifique/rss"
   icon: "https://www.france24.com/favicon-194x194.png"
-# -  
-#   name: "Les Observateurs de France 24"
-#   group: "monde"
-#   feed: "https://observers.france24.com/fr/rss"
-#   icon: "https://observers.france24.com/android-chrome-192x192.png"
 -  
   name: "RFI - Afrique"
   group: "monde"
@@ -417,13 +412,13 @@
 
 # Fact-cheking
 
--
-  name: "franceinfo - Vrai ou fake"
-  group: "factchecking"
-  feed: "https://www.francetvinfo.fr/vrai-ou-fake.rss"
-  icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
--
-  name: "France 24 - Les observateurs - Intox"
-  group: "factchecking"
-  feed: "https://observers.france24.com/fr/tag/intox/rss"
-  icon: "https://observers.france24.com/android-chrome-192x192.png"
+# -
+#   name: "franceinfo - Vrai ou fake"
+#   group: "factchecking"
+#   feed: "https://www.francetvinfo.fr/vrai-ou-fake.rss"
+#   icon: "https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png"
+# -
+#   name: "France 24 - Les observateurs - Intox"
+#   group: "factchecking"
+#   feed: "https://observers.france24.com/fr/tag/intox/rss"
+#   icon: "https://observers.france24.com/android-chrome-192x192.png"
